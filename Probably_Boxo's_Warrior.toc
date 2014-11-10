@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: Probably - Boxo's Warrior
+## Notes: ProbablyEngine Custom Rotation
+## Dependencies: Probably
+
+arms.lua
+protection.lua
